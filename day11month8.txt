@@ -1,0 +1,37 @@
+﻿1. Math.floor向下舍入为最接近的整数
+    Math.round按正常四舍五入计算
+    Math.ceil向上舍入为最接近的整数
+2. 版本更新：若检测到线上版本号小于服务器版本号则进行更新
+3. 	a();	//undefined
+	var a = function() {console.log(2);};
+	b();	//1
+	function d() {console.log(1);}
+4. 
+
+$.cookie
+$.browser
+$.easing
+Slide
+minidialog
+iselect
+icheck
+datepicker
+
+
+ssh-key的作用，意义，多个，分别如何使用
+
+grunt用法
+
+【委托书，身份证号签名，身份证复印件---交至就业中心
+就业中心开具档案转寄证明---交至师大档案馆
+师大档案馆---邮寄档案】
+
+将master上的代码合并到develop中
+
+自定义订单页面模板引擎的问题，且将其他的放到最上面&将多余的【其他的】去掉？
+
+接下来的计划【看千牛的结构，页面，相关代码（css+js）】，找千牛的框架，文档
+
+学习git的用法，断点调试
+
+对文本编码:htmlFilter是什么、广告怎么做的？、页面加载的时候显示正在加载的东西是什么？咋做的、点击小图片，小图片放大，如issue上的表现，怎么做的？
