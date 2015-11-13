@@ -5,4 +5,4 @@ var a = "abcdefg";
 var b = new RegExp("ab"),
     a = "abcdefg";
 b.test(a);				//true
-2. 	
+2. 正则表达式：[abcdefg]表示匹配中括号中的任意字符
